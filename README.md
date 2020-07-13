@@ -1,2 +1,2 @@
-# Diamond Design Lang
-Diamond is unbreakable, this design language will purely use three colors: white, black and one color of your choice
+# Mix Design Lang
+This is a mixed collection of nice design snippets that I found online, and re-implement the idea using my React code
